@@ -7,6 +7,6 @@
   <project name="BigTopKrazies/vendor_oneplus"                              path="vendor/oneplus"                         remote="github"          revision="8.1" />
 
   <!--LOS-->
-    <project name="LineageOS/android_packages_resources_devicesettings"      path="packages/resources/devicesettings"     remote="github"          revision="lineage-15.1" />
-    <project name="LineageOS/android_external_bson"                          path="external/bson"                         remote="github"          revision="lineage-15.1" />
+  <project name="LineageOS/android_packages_resources_devicesettings"       path="packages/resources/devicesettings"      remote="github"          revision="lineage-15.1" />
+  <project name="LineageOS/android_external_bson"                           path="external/bson"                          remote="github"          revision="lineage-15.1" />
 </manifest>
